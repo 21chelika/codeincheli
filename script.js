@@ -132,10 +132,9 @@ const cafeDesigns = [
 const ecommerceDesigns = [
   {
     title: "???",
-    image: "images/ecommerce/will update soon.png",
+    image: "images/ecommerce/fashion-hoon-poster.png",
     preview: [
-    "images/undangan/will update soon.png",
-    "images/undangan/will update soon.png",
+    "images/ecommerce/fashion-design-1.png",
   ],
     type: "Design Only"
   }
