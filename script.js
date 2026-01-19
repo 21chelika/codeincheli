@@ -131,7 +131,7 @@ const cafeDesigns = [
 
 const ecommerceDesigns = [
   {
-    title: "???",
+    title: "Fashion Design Web",
     image: "images/ecommerce/fashion-hoon-poster.png",
     preview: [
     "images/ecommerce/fashion-design-1.png",
